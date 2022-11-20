@@ -1,2 +1,9 @@
 PLNclWVMMvjCzWR-ZvDdWScslTnGaY4qSX
 181
+
+
+
+////////////////////////
+prviot parametar e API
+vtorio parametar e kolki ima vo edna ple lista
+mora da se stavi kolku. Potia i pravi shuffle na listata
