@@ -1,2 +1,10 @@
 PLCB29B52877E2DBFB
 18
+
+
+
+
+//////////////////////
+prv parametar e API od plejlista so stihovi
+vtor parametar e kolku ima voplej listaat
+IM PRAVI SHUFFLE
