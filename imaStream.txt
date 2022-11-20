@@ -1,2 +1,13 @@
 false
+edno
 mhJRzQsLZGg
+
+
+///////////////////////////
+prv parameter dail da ima stream/video/playlist ili ne -> true ili false
+vtor parametardali e edno video ILI stream ili playlist
+ako e edno video ili playlist - > edno
+ako e playlist -> mnogu
+bitno e zoshto eden stream ili video da povika cueVideo
+a za poveke da povila cuePlayList
+mora da e taka inaku ke paga programata
