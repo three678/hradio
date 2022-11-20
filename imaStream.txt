@@ -12,3 +12,6 @@ NA PLEJLISTATA NE I PRAVI SHUFFLE ZA RAZLIKA OD DRUGIOT FAJL
 bitno e zoshto eden stream ili video da povika cueVideo
 a za poveke da povika cuePlayList
 mora da e taka inaku ke paga programata
+proveruva aplikacijata dali e true i ja sviri
+TREBA DA SE PROMENI VO FALSE OTKAKO KE ISVIRI PESNATA ILI PLAYLISTATA ILI STREAMOT
+PROVERUVA DALI JA ISVIRIL I AKO E ISVIRENA EDNAS NE JA SVIRI POVEKE
