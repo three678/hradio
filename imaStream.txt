@@ -6,8 +6,8 @@ KBD18rsVJHk
 ///////////////////////////
 prv parameter dail da ima stream/video/playlist ili ne -> true ili false
 vtor parametardali e edno video ILI stream ili playlist
-ako e edno video ili playlist - > edno
-ako e playlist -> mnogu
+ako e edno VIDEO ili STREAM - > edno
+ako e PLAYLIST -> mnogu
 NA PLEJLISTATA NE I PRAVI SHUFFLE ZA RAZLIKA OD DRUGIOT FAJL
 bitno e zoshto eden stream ili video da povika cueVideo
 a za poveke da povika cuePlayList
