@@ -1,9 +1,11 @@
 true
 _1Prx-Qizyg
-_1Prx-Qizyg
-0000
-0000
-0000
+
+
+
+
+
+
 ///////////////////////////
 prv parameter dail da ima stream/video/playlist ili ne -> true ili false
 vtor parametardali e edno video ILI stream ili playlist
