@@ -1,15 +1,20 @@
 ****PLEJLISTA****
 PLNclWVMMvjCzWR-ZvDdWScslTnGaY4qSX
-185
+193
 ****PISMO****
 PLCB29B52877E2DBFB
 18
 ****INTERVENCIJA****
+false
+KBD18rsVJHk
+Оператор
+Кристијан
+***Број на повторувања од 1 до 6 во 1 час***
+6
+***intervencija Programa ake true intervencija MORA DA E false***
 true
-b-D5yAAXYng
+PLBKOTl5oEHgNbjnFx9prRztfsNed8FuV7
+1
 
 
-
-
-///////////////////
-setings za hristijanskko radio
+// Забрането е грешење горе!
