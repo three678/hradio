@@ -4,14 +4,14 @@ PLNclWVMMvjCzWR-ZvDdWScslTnGaY4qSX
 ****PISMO****
 PLCB29B52877E2DBFB
 18
-****INTERVENCIJA AKO E TRUE MORA PROGRAMA DA E FALSE I OBRATNO****
+****INTERVENCIJA*** AKO E TRUE MORA PROGRAMA DA E FALSE I OBRATNO****
 false
 KBD18rsVJHk
 Оператор
 Кристијан
 ***Број на повторувања од 1 до 6 во 1 час***
 6
-***intervencija Programa ake true intervencija MORA DA E false I OBRATNO***
+***PROGRAMA*** ake true INTERVENCIJA MORA DA E false I OBRATNO***
 true
 PLBKOTl5oEHgNbjnFx9prRztfsNed8FuV7
 1
