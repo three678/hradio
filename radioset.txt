@@ -11,7 +11,7 @@ KBD18rsVJHk
 Кристијан
 ***Број на повторувања од 1 до 6 во 1 час***
 6
-***intervencija Programa ake true intervencija MORA DA E false***
+***intervencija Programa ake true intervencija MORA DA E false I OBRATNO***
 true
 PLBKOTl5oEHgNbjnFx9prRztfsNed8FuV7
 1
