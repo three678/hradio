@@ -12,7 +12,7 @@ VqhCQZaH4Vs
 ***Број на повторувања од 1 до 6 во 1 час***
 6
 ***PROGRAMA*** ake true INTERVENCIJA MORA DA E false I OBRATNO -MORA DA E PUBLIC-MOZE DA SE PUSTI ISTA POGRAMA DVA PATI PO RED***
-true
+false
 PLBKOTl5oEHgPXwwg9HPMsS3U6YQlvGgiN
 0
 
